@@ -227,7 +227,7 @@ Modules:
 ## 👨‍💻 Author
 
 **Ashutosh Kumar**
-AI Engineer • Full-Stack Developer • ML Enthusiast
+Aspiring AI Engineer 
 
 ---
 
@@ -238,13 +238,4 @@ Contributions are welcome!
 * Fork repo
 * Create PR
 * Open Issues
-
----
-
-If you want, I can also generate:
-
-* `requirements.txt`
-* `project folder structure documentation`
-* `architecture diagram`
-* `portfolio explanation script for interview`
 
